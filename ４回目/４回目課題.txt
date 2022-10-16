@@ -1,0 +1,2 @@
+$uniqid = sha1(uniqid(rand(),true));
+$file_name = $uniqid."_".$file_name;
