@@ -1,2 +1,0 @@
-$uniqid = uniqid($prefix);
-$file_name = $uniqid."_".$file_name;
